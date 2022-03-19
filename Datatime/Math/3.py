@@ -1,4 +1,3 @@
-from distutils.errors import DistutilsFileError
 from math import tan, pi
 n_sides = int(input())
 s_length = int(input())
